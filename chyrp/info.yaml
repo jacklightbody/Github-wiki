@@ -1,0 +1,8 @@
+name: Documentation
+url: http://chyrp.net
+version: 1.0
+description: Displays documentation from the chyrp wiki on your site.
+author:
+  name: Chyrp Team
+  url: http://chyrp.net
+conflicts:

@@ -1,0 +1,1 @@
+Lets you display a github wiki on your site.
